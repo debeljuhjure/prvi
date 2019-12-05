@@ -1,2 +1,2 @@
 # prvi
-Moj prvi depozitorij na GitHubu ikad.
+Moj prvi repozitorij na GitHubu ikad.
